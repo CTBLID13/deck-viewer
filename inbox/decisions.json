@@ -70,7 +70,14 @@
       "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "04778e59",
-      "ts": 1782944694513
+      "ts": 1782944694513,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "0dc95bc3",
+      "ts": 1782944695378
     }
   ]
 }
