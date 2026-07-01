@@ -5,13 +5,14 @@
       "action": "markMoved",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "edd2072c",
-      "ts": 1782942788768
+      "ts": 1782942788768,
+      "synced": true
     },
     {
-      "action": "accept",
+      "action": "markMoved",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "a0e1b41a",
-      "ts": 1782941118738,
+      "ts": 1782942789453,
       "synced": true
     }
   ]
