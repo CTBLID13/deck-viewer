@@ -47,7 +47,16 @@
       "action": "accept",
       "deckKey": "Jake__Jin Sakai, Ghost of Tsukishima",
       "sid": "4b8cc381",
-      "ts": 1782944102344
+      "ts": 1782944102344,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsukishima",
+      "addSetCode": "FDN",
+      "boxLocation": "Foundations",
+      "sid": "1f48f1fe",
+      "ts": 1782944103724
     }
   ]
 }
