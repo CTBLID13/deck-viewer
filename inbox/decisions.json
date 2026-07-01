@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "decisions": [
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Auntie Ool, Cursewretch",
+      "sid": "edd2072c",
+      "ts": 1782942788768,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Auntie Ool, Cursewretch",
+      "sid": "a0e1b41a",
+      "ts": 1782942789453,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Fire Lord Azula",
+      "sid": "a144137a",
+      "ts": 1782942798524,
+      "synced": true
+    }
+  ]
+}
