@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "decisions": [
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Auntie Ool, Cursewretch",
+      "sid": "edd2072c",
+      "ts": 1782942788768
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Auntie Ool, Cursewretch",
+      "sid": "a0e1b41a",
+      "ts": 1782941118738,
+      "synced": true
+    }
+  ]
+}
