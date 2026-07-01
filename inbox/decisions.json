@@ -33,7 +33,14 @@
       "action": "skip",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "2037ed6d",
-      "ts": 1782943933893
+      "ts": 1782943933893,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "2e138847",
+      "ts": 1782943936262
     }
   ]
 }
