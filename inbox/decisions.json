@@ -40,7 +40,14 @@
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "2e138847",
-      "ts": 1782943936262
+      "ts": 1782943936262,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsukishima",
+      "sid": "4b8cc381",
+      "ts": 1782944102344
     }
   ]
 }
