@@ -63,7 +63,14 @@
       "action": "accept",
       "deckKey": "Jake__Jin Sakai, Ghost of Tsukishima",
       "sid": "db9d8f89",
-      "ts": 1782944105260
+      "ts": 1782944105260,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "04778e59",
+      "ts": 1782944694513
     }
   ]
 }
