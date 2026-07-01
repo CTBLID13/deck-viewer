@@ -91,7 +91,16 @@
       "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "c8c7ec2e",
-      "ts": 1782944698914
+      "ts": 1782944698914,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shadow the Hedgehog",
+      "addSetCode": "SPG",
+      "boxLocation": "Outlaws of Thunder Junction",
+      "sid": "4eb786e6",
+      "ts": 1782944928326
     }
   ]
 }
