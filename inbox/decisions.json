@@ -100,7 +100,14 @@
       "addSetCode": "SPG",
       "boxLocation": "Outlaws of Thunder Junction",
       "sid": "4eb786e6",
-      "ts": 1782944928326
+      "ts": 1782944928326,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shadow the Hedgehog",
+      "sid": "449e7186",
+      "ts": 1782944931110
     }
   ]
 }
