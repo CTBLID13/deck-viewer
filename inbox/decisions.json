@@ -142,19 +142,28 @@
       "action": "accept",
       "deckKey": "Jake__Baylen, the Haymaker",
       "sid": "cb437b3e",
-      "ts": 1783364550448
+      "ts": 1783364550448,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Baylen, the Haymaker",
       "sid": "9adb4f0e",
-      "ts": 1783364550931
+      "ts": 1783364550931,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Sean__Ghave, Guru of Spores",
       "sid": "322e065a",
-      "ts": 1783364608469
+      "ts": 1783364608469,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__SpongeBob SquarePants",
+      "sid": "a89e32d9",
+      "ts": 1783364908217
     }
   ]
 }
