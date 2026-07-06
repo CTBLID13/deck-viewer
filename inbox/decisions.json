@@ -114,13 +114,15 @@
       "action": "accept",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "0be89355",
-      "ts": 1783364125965
+      "ts": 1783364125965,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "035a6042",
-      "ts": 1783364127212
+      "ts": 1783364127212,
+      "synced": true
     }
   ]
 }
