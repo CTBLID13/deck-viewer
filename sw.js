@@ -1,9 +1,9 @@
 // Service worker for the mobile deck viewer — offline-first.
-// export-mobile.mjs rewrites 20260721035046 on every export, so a new publish
+// export-mobile.mjs rewrites 20260721181144 on every export, so a new publish
 // busts the cache and the phone picks up fresh decks. Cache-first for instant/offline
 // loads; the new SW only takes over when the page asks (SKIP_WAITING), so an update
 // never yanks the page out from under the user mid-view.
-const CACHE = `deckviewer-20260721035046`;
+const CACHE = `deckviewer-20260721181144`;
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
                 './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
