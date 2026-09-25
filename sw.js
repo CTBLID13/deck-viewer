@@ -1,14 +1,18 @@
 // Service worker for the mobile deck viewer — offline-first.
-// export-mobile.mjs rewrites 20260925204059 on every export, so a new publish
+// export-mobile.mjs rewrites 20260925205112 on every export, so a new publish
 // busts the cache and the phone picks up fresh decks. Cache-first for instant/offline
 // loads; the new SW only takes over when the page asks (SKIP_WAITING), so an update
 // never yanks the page out from under the user mid-view.
-const CACHE = `deckviewer-20260925204059`;
+const CACHE = `deckviewer-20260925205112`;
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
                 './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
+// cache: 'reload' — fetch every asset fresh from the server, bypassing the browser's HTTP cache.
+// GitHub Pages serves max-age=600, so a plain addAll could store the PREVIOUS index.html (with the
+// previous decks) under the new cache version when two exports land within 10 minutes; tapping
+// "update" then showed stale swaps (2026-09-25: Garfield's Orim's Chant change didn't reach the phone).
 self.addEventListener('install', e =>
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).catch(() => {})));
+  e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS.map(u => new Request(u, { cache: 'reload' })))).catch(() => {})));
 
 self.addEventListener('activate', e =>
   e.waitUntil(caches.keys()
