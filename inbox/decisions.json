@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "decisions": [
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "c73dc239",
+      "ts": 1790457884206
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "60b11e1b",
+      "ts": 1790457884737
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "5e2189b1",
+      "ts": 1790457885138
+    }
+  ]
+}
