@@ -2,6 +2,12 @@
   "v": 1,
   "decisions": [
     {
+      "action": "accept",
+      "deckKey": "Jake__Baylen, the Haymaker",
+      "sid": "87737052",
+      "ts": 1790451694314
+    },
+    {
       "action": "markMoved",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "edd2072c",
@@ -219,7 +225,8 @@
       "action": "accept",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "45f318a2",
-      "ts": 1790451367131
+      "ts": 1790451367131,
+      "synced": true
     }
   ]
 }
