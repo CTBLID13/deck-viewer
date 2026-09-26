@@ -47,7 +47,20 @@
       "action": "accept",
       "deckKey": "Jake__Oloro, Ageless Ascetic",
       "sid": "6ab11824",
-      "ts": 1790456528315
+      "ts": 1790456528315,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Oloro, Ageless Ascetic",
+      "sid": "c96dd656",
+      "ts": 1790456528812
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Oloro, Ageless Ascetic",
+      "sid": "485dd291",
+      "ts": 1790456529265
     }
   ]
 }
