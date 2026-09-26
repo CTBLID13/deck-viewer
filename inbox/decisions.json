@@ -77,7 +77,14 @@
       "action": "markMoved",
       "deckKey": "Jake__Storm, Force of Nature",
       "sid": "230cebef",
-      "ts": 1790458654719
+      "ts": 1790458654719,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "sid": "e98093de",
+      "ts": 1790458918337
     }
   ]
 }
