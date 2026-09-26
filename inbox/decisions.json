@@ -151,19 +151,22 @@
       "action": "markMoved",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "a127b1fd",
-      "ts": 1790459079315
+      "ts": 1790459079315,
+      "synced": true
     },
     {
       "action": "markMoved",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "d54d5aa7",
-      "ts": 1790459079747
+      "ts": 1790459079747,
+      "synced": true
     },
     {
       "action": "markMoved",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "e7813330",
-      "ts": 1790459080077
+      "ts": 1790459080077,
+      "synced": true
     }
   ]
 }
