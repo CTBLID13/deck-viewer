@@ -186,13 +186,21 @@
       "action": "markMoved",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "bfd0b972",
-      "ts": 1790459085029
+      "ts": 1790459085029,
+      "synced": true
     },
     {
       "action": "markMoved",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "beb1e968",
-      "ts": 1790459085297
+      "ts": 1790459085297,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "9d02e977",
+      "ts": 1790459088900
     }
   ]
 }
