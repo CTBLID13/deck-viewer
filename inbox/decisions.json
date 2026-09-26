@@ -14,7 +14,14 @@
       "removeSetCode": "FDN",
       "removeBoxLocation": "Foundations",
       "sid": "5d2016f7",
-      "ts": 1790458614179
+      "ts": 1790458614179,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "sid": "ded49c58",
+      "ts": 1790458615863
     }
   ]
 }
