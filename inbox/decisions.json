@@ -268,7 +268,14 @@
       "action": "accept",
       "deckKey": "Jake__Fire Lord Azula",
       "sid": "fe410cf9",
-      "ts": 1790451764130
+      "ts": 1790451764130,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Fire Lord Azula",
+      "sid": "06f78aac",
+      "ts": 1790451764813
     }
   ]
 }
