@@ -354,7 +354,14 @@
       "action": "markMoved",
       "deckKey": "Jake__SpongeBob SquarePants",
       "sid": "3ff8bc02",
-      "ts": 1790459122365
+      "ts": 1790459122365,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ygra, Eater of All",
+      "sid": "6aa64fc9",
+      "ts": 1790459471874
     }
   ]
 }
