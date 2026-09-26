@@ -19,13 +19,21 @@
       "action": "accept",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "69ec806c",
-      "ts": 1790455175023
+      "ts": 1790455175023,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "df7e34d7",
-      "ts": 1790455175421
+      "ts": 1790455175421,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Garfield and Odie, Best Buds",
+      "sid": "1e4637b4",
+      "ts": 1790455182360
     }
   ]
 }
