@@ -359,13 +359,27 @@
       "action": "accept",
       "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
       "sid": "a507f150",
-      "ts": 1790452743588
+      "ts": 1790452743588,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
       "sid": "c8dd5ae0",
-      "ts": 1790452744121
+      "ts": 1790452744121,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
+      "sid": "9f996f0f",
+      "ts": 1790452744736
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
+      "sid": "62747bc5",
+      "ts": 1790452745184
     }
   ]
 }
