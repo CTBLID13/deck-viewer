@@ -298,7 +298,14 @@
       "action": "markMoved",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "c73dc239",
-      "ts": 1790459113544
+      "ts": 1790459113544,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "60b11e1b",
+      "ts": 1790459114744
     }
   ]
 }
