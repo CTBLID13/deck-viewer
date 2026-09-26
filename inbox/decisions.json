@@ -4,6 +4,12 @@
     {
       "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "26483372",
+      "ts": 1790456319107
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "9d02e977",
       "ts": 1790456316257,
       "synced": true
@@ -26,7 +32,14 @@
       "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "7e7271dd",
-      "ts": 1790456318003
+      "ts": 1790456318003,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "61c55fa0",
+      "ts": 1790456318490
     }
   ]
 }
