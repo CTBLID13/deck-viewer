@@ -1,0 +1,17 @@
+{
+  "v": 1,
+  "decisions": [
+    {
+      "action": "accept",
+      "deckKey": "Sean__Krenko, Mob Boss",
+      "sid": "22516790",
+      "ts": 1790460296394
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Krenko, Mob Boss",
+      "sid": "c2fd2d4b",
+      "ts": 1790460297079
+    }
+  ]
+}
