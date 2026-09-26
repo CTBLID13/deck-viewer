@@ -84,7 +84,14 @@
       "action": "accept",
       "deckKey": "Sean__Edgar Markov",
       "sid": "e98093de",
-      "ts": 1790458918337
+      "ts": 1790458918337,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "sid": "fcfbfb01",
+      "ts": 1790458918786
     }
   ]
 }
