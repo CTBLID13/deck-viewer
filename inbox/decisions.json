@@ -12,13 +12,21 @@
       "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "c103ba39",
-      "ts": 1790456316920
+      "ts": 1790456316920,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "073bf9ad",
-      "ts": 1790456317471
+      "ts": 1790456317471,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "7e7271dd",
+      "ts": 1790456318003
     }
   ]
 }
