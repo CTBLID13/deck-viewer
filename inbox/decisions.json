@@ -5,7 +5,8 @@
       "action": "markMoved",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "26483372",
-      "ts": 1790459093255
+      "ts": 1790459093255,
+      "synced": true
     },
     {
       "action": "accept",
@@ -236,6 +237,12 @@
       "sid": "61c55fa0",
       "ts": 1790459091134,
       "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Oloro, Ageless Ascetic",
+      "sid": "6ab11824",
+      "ts": 1790459098471
     }
   ]
 }
