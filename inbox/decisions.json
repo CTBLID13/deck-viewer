@@ -107,7 +107,16 @@
       "action": "accept",
       "deckKey": "Sean__Edgar Markov",
       "sid": "f9a96eac",
-      "ts": 1790458925359
+      "ts": 1790458925359,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "removeSetCode": "CMR",
+      "removeBoxLocation": "General Box",
+      "sid": "c8369f51",
+      "ts": 1790458928973
     }
   ]
 }
