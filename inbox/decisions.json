@@ -282,19 +282,34 @@
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "72c10ff3",
-      "ts": 1790452037554
+      "ts": 1790452037554,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "915de62a",
-      "ts": 1790452038256
+      "ts": 1790452038256,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "bdf58ece",
-      "ts": 1790452038790
+      "ts": 1790452038790,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "9f7324b3",
+      "ts": 1790452039272
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "e161cd45",
+      "ts": 1790452039687
     }
   ]
 }
