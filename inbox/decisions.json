@@ -172,7 +172,14 @@
       "action": "markMoved",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "69ec806c",
-      "ts": 1790459083917
+      "ts": 1790459083917,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Muldrotha, the Gravetide",
+      "sid": "df7e34d7",
+      "ts": 1790459084315
     }
   ]
 }
