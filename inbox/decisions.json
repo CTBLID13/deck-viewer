@@ -7,7 +7,14 @@
       "addSetCode": "WOE",
       "boxLocation": "Wilds of Eldraine",
       "sid": "106bc6ae",
-      "ts": 1790460972101
+      "ts": 1790460972101,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "sid": "135a89e1",
+      "ts": 1790460973896
     }
   ]
 }
