@@ -26,19 +26,28 @@
       "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "133ee349",
-      "ts": 1790457885572
+      "ts": 1790457885572,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "df8f9da4",
-      "ts": 1790457886007
+      "ts": 1790457886007,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "88ec9020",
-      "ts": 1790457886424
+      "ts": 1790457886424,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "sid": "4dd0a6e8",
+      "ts": 1790457887421
     }
   ]
 }
