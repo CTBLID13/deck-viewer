@@ -303,13 +303,33 @@
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "9f7324b3",
-      "ts": 1790452039272
+      "ts": 1790452039272,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Giada, Front of Hope",
       "sid": "e161cd45",
-      "ts": 1790452039687
+      "ts": 1790452039687,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "sid": "aa2d2bad",
+      "ts": 1790452230192
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "sid": "7065d0a3",
+      "ts": 1790452230807
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "sid": "63eac5c5",
+      "ts": 1790452231221
     }
   ]
 }
