@@ -26,13 +26,21 @@
       "action": "accept",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "e7813330",
-      "ts": 1790454634951
+      "ts": 1790454634951,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "cf212754",
-      "ts": 1790454635551
+      "ts": 1790454635551,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Lorehold, the Historian",
+      "sid": "934128d6",
+      "ts": 1790454635981
     }
   ]
 }
