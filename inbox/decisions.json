@@ -9,6 +9,12 @@
       "synced": true
     },
     {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
+      "sid": "98622830",
+      "ts": 1790452742599
+    },
+    {
       "action": "markMoved",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
       "sid": "edd2072c",
@@ -333,6 +339,18 @@
       "sid": "63eac5c5",
       "ts": 1790452231221,
       "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
+      "sid": "3d7c8623",
+      "ts": 1790452742050
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Jin Sakai, Ghost of Tsushima",
+      "sid": "fc1d384b",
+      "ts": 1790452743066
     }
   ]
 }
