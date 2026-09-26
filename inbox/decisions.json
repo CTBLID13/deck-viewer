@@ -5,7 +5,16 @@
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "67da501c",
-      "ts": 1790458593086
+      "ts": 1790458593086,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "removeSetCode": "FDN",
+      "removeBoxLocation": "Foundations",
+      "sid": "5d2016f7",
+      "ts": 1790458614179
     }
   ]
 }
