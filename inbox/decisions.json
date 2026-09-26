@@ -25,7 +25,14 @@
       "removeSetCode": "CMM",
       "removeBoxLocation": "General Box",
       "sid": "a3626900",
-      "ts": 1790460976100
+      "ts": 1790460976100,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "sid": "4d7f02b9",
+      "ts": 1790460977230
     }
   ]
 }
