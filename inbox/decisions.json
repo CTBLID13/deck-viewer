@@ -100,7 +100,14 @@
       "addSetCode": "MOM",
       "boxLocation": "March of the Machine",
       "sid": "1e1d2f52",
-      "ts": 1790458923705
+      "ts": 1790458923705,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "sid": "f9a96eac",
+      "ts": 1790458925359
     }
   ]
 }
