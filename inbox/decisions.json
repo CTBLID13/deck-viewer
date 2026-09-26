@@ -233,7 +233,14 @@
       "action": "accept",
       "deckKey": "Jake__Baylen, the Haymaker",
       "sid": "fc8a3e5f",
-      "ts": 1790451695310
+      "ts": 1790451695310,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Baylen, the Haymaker",
+      "sid": "e100f291",
+      "ts": 1790451696091
     }
   ]
 }
