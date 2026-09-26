@@ -32,7 +32,14 @@
       "removeSetCode": "ONE",
       "removeBoxLocation": "Phyrexia: All Will Be One",
       "sid": "a96c8055",
-      "ts": 1790458622452
+      "ts": 1790458622452,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Storm, Force of Nature",
+      "sid": "a006497c",
+      "ts": 1790458642080
     }
   ]
 }
