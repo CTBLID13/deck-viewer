@@ -275,7 +275,26 @@
       "action": "accept",
       "deckKey": "Jake__Fire Lord Azula",
       "sid": "06f78aac",
-      "ts": 1790451764813
+      "ts": 1790451764813,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "72c10ff3",
+      "ts": 1790452037554
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "915de62a",
+      "ts": 1790452038256
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Front of Hope",
+      "sid": "bdf58ece",
+      "ts": 1790452038790
     }
   ]
 }
