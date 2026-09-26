@@ -5,13 +5,27 @@
       "action": "accept",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "bfd0b972",
-      "ts": 1790455173620
+      "ts": 1790455173620,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "beb1e968",
-      "ts": 1790455174389
+      "ts": 1790455174389,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Muldrotha, the Gravetide",
+      "sid": "69ec806c",
+      "ts": 1790455175023
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Muldrotha, the Gravetide",
+      "sid": "df7e34d7",
+      "ts": 1790455175421
     }
   ]
 }
