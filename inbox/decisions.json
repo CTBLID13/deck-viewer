@@ -14,7 +14,18 @@
       "action": "accept",
       "deckKey": "Sean__Ghave, Guru of Spores",
       "sid": "135a89e1",
-      "ts": 1790460973896
+      "ts": 1790460973896,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "addSetCode": "OTJ",
+      "boxLocation": "Outlaws of Thunder Junction",
+      "removeSetCode": "CMM",
+      "removeBoxLocation": "General Box",
+      "sid": "a3626900",
+      "ts": 1790460976100
     }
   ]
 }
