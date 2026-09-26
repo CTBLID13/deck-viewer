@@ -19,7 +19,14 @@
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "77145e6b",
-      "ts": 1790460383166
+      "ts": 1790460383166,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "sid": "abaeba36",
+      "ts": 1790460384376
     }
   ]
 }
