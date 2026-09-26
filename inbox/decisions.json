@@ -39,7 +39,16 @@
       "action": "accept",
       "deckKey": "Jake__Storm, Force of Nature",
       "sid": "a006497c",
-      "ts": 1790458642080
+      "ts": 1790458642080,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Storm, Force of Nature",
+      "removeSetCode": "MOM",
+      "removeBoxLocation": "March of the Machine",
+      "sid": "c1811fbe",
+      "ts": 1790458643929
     }
   ]
 }
