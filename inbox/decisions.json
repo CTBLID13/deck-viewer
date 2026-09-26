@@ -200,7 +200,14 @@
       "action": "markMoved",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "9d02e977",
-      "ts": 1790459088900
+      "ts": 1790459088900,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "c103ba39",
+      "ts": 1790459089819
     }
   ]
 }
