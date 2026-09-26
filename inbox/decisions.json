@@ -48,7 +48,18 @@
       "removeSetCode": "MOM",
       "removeBoxLocation": "March of the Machine",
       "sid": "c1811fbe",
-      "ts": 1790458643929
+      "ts": 1790458643929,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Storm, Force of Nature",
+      "addSetCode": "NEO",
+      "boxLocation": "Kamigawa: Neon Dynasty",
+      "removeSetCode": "MOM",
+      "removeBoxLocation": "March of the Machine",
+      "sid": "b727e653",
+      "ts": 1790458651014
     }
   ]
 }
