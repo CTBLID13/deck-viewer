@@ -21,7 +21,18 @@
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "ded49c58",
-      "ts": 1790458615863
+      "ts": 1790458615863,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "addSetCode": "OTJ",
+      "boxLocation": "Outlaws of Thunder Junction",
+      "removeSetCode": "ONE",
+      "removeBoxLocation": "Phyrexia: All Will Be One",
+      "sid": "a96c8055",
+      "ts": 1790458622452
     }
   ]
 }
