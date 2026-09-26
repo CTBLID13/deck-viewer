@@ -249,13 +249,27 @@
       "action": "markMoved",
       "deckKey": "Jake__Oloro, Ageless Ascetic",
       "sid": "c96dd656",
-      "ts": 1790459098836
+      "ts": 1790459098836,
+      "synced": true
     },
     {
       "action": "markMoved",
       "deckKey": "Jake__Oloro, Ageless Ascetic",
       "sid": "485dd291",
-      "ts": 1790459099258
+      "ts": 1790459099258,
+      "synced": true
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Oloro, Ageless Ascetic",
+      "sid": "b39442ac",
+      "ts": 1790459099653
+    },
+    {
+      "action": "markMoved",
+      "deckKey": "Jake__Oloro, Ageless Ascetic",
+      "sid": "38d43a6e",
+      "ts": 1790459100102
     }
   ]
 }
