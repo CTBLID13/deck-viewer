@@ -91,7 +91,16 @@
       "action": "accept",
       "deckKey": "Sean__Edgar Markov",
       "sid": "fcfbfb01",
-      "ts": 1790458918786
+      "ts": 1790458918786,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "addSetCode": "MOM",
+      "boxLocation": "March of the Machine",
+      "sid": "1e1d2f52",
+      "ts": 1790458923705
     }
   ]
 }
