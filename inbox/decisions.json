@@ -7,7 +7,14 @@
       "removeSetCode": "WOE",
       "removeBoxLocation": "Wilds of Eldraine",
       "sid": "dc947a7f",
-      "ts": 1790534945800
+      "ts": 1790534945800,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Baylen, the Haymaker",
+      "sid": "3daf5824",
+      "ts": 1790534959665
     }
   ]
 }
