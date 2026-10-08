@@ -1,9 +1,9 @@
 // Service worker for the mobile deck viewer — offline-first.
-// export-mobile.mjs rewrites 20261008181516 on every export, so a new publish
+// export-mobile.mjs rewrites 20261008184017 on every export, so a new publish
 // busts the cache and the phone picks up fresh decks. Cache-first for instant/offline
 // loads; the new SW only takes over when the page asks (SKIP_WAITING), so an update
 // never yanks the page out from under the user mid-view.
-const CACHE = `deckviewer-20261008181516`;
+const CACHE = `deckviewer-20261008184017`;
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
                 './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
@@ -23,6 +23,7 @@ self.addEventListener('message', e => { if (e.data && e.data.type === 'SKIP_WAIT
 
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  if (new URL(e.request.url).hostname === 'api.github.com') return;   // live data (phone sync, Little Troubles saves): straight to the network
   e.respondWith(caches.match(e.request).then(cached =>
     cached || fetch(e.request).then(resp => {
       const copy = resp.clone();
