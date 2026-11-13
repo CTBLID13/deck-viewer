@@ -2,12 +2,10 @@
   "v": 1,
   "decisions": [
     {
-      "action": "accept",
+      "action": "skip",
       "deckKey": "Jake__Auntie Ool, Cursewretch",
-      "removeSetCode": "ECC",
-      "removeBoxLocation": "Lorwyn Eclipsed",
       "sid": "8477b09c",
-      "ts": 1794537654421
+      "ts": 1794537656364
     }
   ]
 }
