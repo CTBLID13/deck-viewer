@@ -213,7 +213,14 @@
       "removeSetCode": "M21",
       "removeBoxLocation": "General Box",
       "sid": "00e2b1bf",
-      "ts": 1794687755053
+      "ts": 1794687755053,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__SpongeBob SquarePants",
+      "sid": "2d3c9879",
+      "ts": 1794687758053
     }
   ]
 }
