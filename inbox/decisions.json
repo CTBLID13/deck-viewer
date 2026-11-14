@@ -35,7 +35,14 @@
       "removeSetCode": "MOM",
       "removeBoxLocation": "March of the Machine",
       "sid": "758ac893",
-      "ts": 1794686875699
+      "ts": 1794686875699,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shadow the Hedgehog",
+      "sid": "66718c0f",
+      "ts": 1794686876512
     }
   ]
 }
