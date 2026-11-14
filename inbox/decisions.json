@@ -269,7 +269,14 @@
       "action": "accept",
       "deckKey": "Sean__Krenko, Mob Boss",
       "sid": "05c669e3",
-      "ts": 1794688645332
+      "ts": 1794688645332,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Krenko, Mob Boss",
+      "sid": "a420f358",
+      "ts": 1794688646001
     }
   ]
 }
