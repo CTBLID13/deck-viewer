@@ -220,19 +220,28 @@
       "action": "accept",
       "deckKey": "Jake__Storm, Force of Nature",
       "sid": "319121c8",
-      "ts": 1794688309729
+      "ts": 1794688309729,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Storm, Force of Nature",
       "sid": "425ba795",
-      "ts": 1794688310197
+      "ts": 1794688310197,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Storm, Force of Nature",
       "sid": "8222d60f",
-      "ts": 1794688310629
+      "ts": 1794688310629,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Edgar Markov",
+      "sid": "449cecee",
+      "ts": 1794688524499
     }
   ]
 }
