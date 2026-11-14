@@ -306,7 +306,16 @@
       "removeSetCode": "PIP",
       "removeBoxLocation": "Fallout",
       "sid": "31c34c5c",
-      "ts": 1794688954845
+      "ts": 1794688954845,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "removeSetCode": "NEO",
+      "removeBoxLocation": "Kamigawa: Neon Dynasty",
+      "sid": "b959d267",
+      "ts": 1794688962523
     }
   ]
 }
