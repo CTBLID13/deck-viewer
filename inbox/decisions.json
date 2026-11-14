@@ -26,7 +26,16 @@
       "action": "accept",
       "deckKey": "Jake__Shadow the Hedgehog",
       "sid": "048ddb2a",
-      "ts": 1794686870318
+      "ts": 1794686870318,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shadow the Hedgehog",
+      "removeSetCode": "MOM",
+      "removeBoxLocation": "March of the Machine",
+      "sid": "758ac893",
+      "ts": 1794686875699
     }
   ]
 }
