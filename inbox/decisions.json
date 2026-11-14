@@ -361,7 +361,14 @@
       "addSetCode": "FDN",
       "boxLocation": "Foundations",
       "sid": "ee188280",
-      "ts": 1794689159505
+      "ts": 1794689159505,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Tam, the Possibility",
+      "sid": "54f27f4f",
+      "ts": 1794689701843
     }
   ]
 }
