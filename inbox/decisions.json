@@ -331,7 +331,14 @@
       "removeSetCode": "NEO",
       "removeBoxLocation": "Kamigawa: Neon Dynasty",
       "sid": "45fd6024",
-      "ts": 1794689115581
+      "ts": 1794689115581,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ygra, Eater of All",
+      "sid": "082ff255",
+      "ts": 1794689119285
     }
   ]
 }
