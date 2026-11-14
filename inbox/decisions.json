@@ -220,7 +220,14 @@
       "action": "accept",
       "deckKey": "Jake__SpongeBob SquarePants",
       "sid": "2d3c9879",
-      "ts": 1794687758053
+      "ts": 1794687758053,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__SpongeBob SquarePants",
+      "sid": "5ca554a7",
+      "ts": 1794687773797
     }
   ]
 }
