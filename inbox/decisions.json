@@ -403,7 +403,14 @@
       "action": "accept",
       "deckKey": "Jake__Tam, the Possibility",
       "sid": "52efc3d0",
-      "ts": 1794689705924
+      "ts": 1794689705924,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Tam, the Possibility",
+      "sid": "07a68464",
+      "ts": 1794689706280
     }
   ]
 }
