@@ -63,7 +63,14 @@
       "action": "accept",
       "deckKey": "Jake__Shadow the Hedgehog",
       "sid": "fa197c33",
-      "ts": 1794686883516
+      "ts": 1794686883516,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shadow the Hedgehog",
+      "sid": "cce6df63",
+      "ts": 1794686887222
     }
   ]
 }
