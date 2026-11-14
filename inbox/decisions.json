@@ -151,7 +151,20 @@
       "removeSetCode": "GTC",
       "removeBoxLocation": "General Box",
       "sid": "40eb6d58",
-      "ts": 1794687462750
+      "ts": 1794687462750,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "sid": "2c468ea5",
+      "ts": 1794687463433
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "sid": "f2693c51",
+      "ts": 1794687464066
     }
   ]
 }
