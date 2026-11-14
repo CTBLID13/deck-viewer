@@ -133,7 +133,16 @@
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "59ddd776",
-      "ts": 1794687342992
+      "ts": 1794687342992,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "addSetCode": "OTJ",
+      "boxLocation": "Outlaws of Thunder Junction",
+      "sid": "b57313f7",
+      "ts": 1794687359619
     }
   ]
 }
