@@ -204,7 +204,16 @@
       "removeSetCode": "WOE",
       "removeBoxLocation": "Wilds of Eldraine",
       "sid": "f260e27c",
-      "ts": 1794687753536
+      "ts": 1794687753536,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__SpongeBob SquarePants",
+      "removeSetCode": "M21",
+      "removeBoxLocation": "General Box",
+      "sid": "00e2b1bf",
+      "ts": 1794687755053
     }
   ]
 }
