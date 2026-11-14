@@ -206,7 +206,14 @@
       "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "c0e0fb1a",
-      "ts": 1794688089645
+      "ts": 1794688089645,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Storm, Force of Nature",
+      "sid": "b1aea526",
+      "ts": 1794688309239
     }
   ]
 }
