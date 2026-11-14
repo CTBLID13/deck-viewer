@@ -10,41 +10,6 @@
     },
     {
       "action": "accept",
-      "deckKey": "Jake__Shadow the Hedgehog",
-      "sid": "cce6df63",
-      "ts": 1794686887222,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Sonic the Hedgehog",
-      "sid": "2f92d805",
-      "ts": 1794687023121,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Sonic the Hedgehog",
-      "sid": "bd7472cd",
-      "ts": 1794687024557,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Sonic the Hedgehog",
-      "sid": "458a2d91",
-      "ts": 1794687025688,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Sonic the Hedgehog",
-      "sid": "3945ceaa",
-      "ts": 1794687027955,
-      "synced": true
-    },
-    {
-      "action": "accept",
       "deckKey": "Jake__Sonic the Hedgehog",
       "sid": "3eb19f89",
       "ts": 1794687116646,
@@ -59,13 +24,6 @@
     },
     {
       "action": "accept",
-      "deckKey": "Jake__Sonic the Hedgehog",
-      "sid": "8adc9de1",
-      "ts": 1794687160785,
-      "synced": true
-    },
-    {
-      "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "7f0793ef",
       "ts": 1794687342075,
@@ -76,77 +34,6 @@
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "59ddd776",
       "ts": 1794687342992,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Shalai and Hallar",
-      "addSetCode": "MSH",
-      "boxLocation": "Marvel's Spider-Man",
-      "sid": "b57313f7",
-      "ts": 1794687366021,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Shalai and Hallar",
-      "removeSetCode": "GTC",
-      "removeBoxLocation": "General Box",
-      "sid": "40eb6d58",
-      "ts": 1794687462750,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Shalai and Hallar",
-      "sid": "2c468ea5",
-      "ts": 1794687463433,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Shalai and Hallar",
-      "sid": "f2693c51",
-      "ts": 1794687464066,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "dd9d026e",
-      "ts": 1794687734126,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "removeSetCode": "FDN",
-      "removeBoxLocation": "Foundations",
-      "sid": "fb734590",
-      "ts": 1794687746004,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "d8ea71a4",
-      "ts": 1794687747338,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "c1bde85d",
-      "ts": 1794687749905,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "removeSetCode": "WOE",
-      "removeBoxLocation": "Wilds of Eldraine",
-      "sid": "f260e27c",
-      "ts": 1794687753536,
       "synced": true
     },
     {
@@ -167,67 +54,9 @@
     },
     {
       "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "5ca554a7",
-      "ts": 1794687773797,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "c8e764e3",
-      "ts": 1794687785232,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__SpongeBob SquarePants",
-      "sid": "fb1fea01",
-      "ts": 1794687840309,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Neriv, Heart of the Storm",
-      "sid": "702a41a9",
-      "ts": 1794688070182,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Neriv, Heart of the Storm",
-      "addSetCode": "CMM",
-      "boxLocation": "General Box",
-      "sid": "08019d9e",
-      "ts": 1794688088063,
-      "synced": true
-    },
-    {
-      "action": "accept",
       "deckKey": "Jake__Neriv, Heart of the Storm",
       "sid": "c0e0fb1a",
       "ts": 1794688089645,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Storm, Force of Nature",
-      "sid": "b1aea526",
-      "ts": 1794688309239,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Storm, Force of Nature",
-      "sid": "319121c8",
-      "ts": 1794688309729,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Storm, Force of Nature",
-      "sid": "425ba795",
-      "ts": 1794688310197,
       "synced": true
     },
     {
@@ -240,36 +69,8 @@
     {
       "action": "accept",
       "deckKey": "Sean__Edgar Markov",
-      "sid": "449cecee",
-      "ts": 1794688524499,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Edgar Markov",
-      "sid": "35cbd150",
-      "ts": 1794688525082,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Edgar Markov",
-      "sid": "be0331ef",
-      "ts": 1794688525485,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Edgar Markov",
       "sid": "f648ae04",
       "ts": 1794688526786,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Krenko, Mob Boss",
-      "sid": "05c669e3",
-      "ts": 1794688645332,
       "synced": true
     },
     {
@@ -281,48 +82,11 @@
     },
     {
       "action": "accept",
-      "deckKey": "Sean__Sivitri, Dragon Master",
-      "sid": "c137998c",
-      "ts": 1794688761861,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Sivitri, Dragon Master",
-      "sid": "9a7810a2",
-      "ts": 1794688762328,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ghave, Guru of Spores",
-      "sid": "3e4adaf7",
-      "ts": 1794688947308,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ghave, Guru of Spores",
-      "removeSetCode": "PIP",
-      "removeBoxLocation": "Fallout",
-      "sid": "31c34c5c",
-      "ts": 1794688954845,
-      "synced": true
-    },
-    {
-      "action": "accept",
       "deckKey": "Sean__Ghave, Guru of Spores",
       "removeSetCode": "NEO",
       "removeBoxLocation": "Kamigawa: Neon Dynasty",
       "sid": "b959d267",
       "ts": 1794688962523,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ygra, Eater of All",
-      "sid": "fee88272",
-      "ts": 1794689105160,
       "synced": true
     },
     {
@@ -340,77 +104,6 @@
       "sid": "082ff255",
       "ts": 1794689119285,
       "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ygra, Eater of All",
-      "sid": "cc5a7c56",
-      "ts": 1794689123000,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ygra, Eater of All",
-      "sid": "f97fa5b1",
-      "ts": 1794689144497,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Sean__Ygra, Eater of All",
-      "addSetCode": "FDN",
-      "boxLocation": "Foundations",
-      "sid": "ee188280",
-      "ts": 1794689159505,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "54f27f4f",
-      "ts": 1794689701843,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "c7b670a7",
-      "ts": 1794689702356,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "f5909aa0",
-      "ts": 1794689702838,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "0aa32104",
-      "ts": 1794689703705,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "b7c081b4",
-      "ts": 1794689704143,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "52efc3d0",
-      "ts": 1794689705924,
-      "synced": true
-    },
-    {
-      "action": "accept",
-      "deckKey": "Jake__Tam, the Possibility",
-      "sid": "07a68464",
-      "ts": 1794689706280
     }
   ]
 }
