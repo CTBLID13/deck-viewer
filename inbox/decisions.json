@@ -135,6 +135,14 @@
       "sid": "59ddd776",
       "ts": 1794687342992,
       "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Shalai and Hallar",
+      "addSetCode": "MSH",
+      "boxLocation": "Marvel's Spider-Man",
+      "sid": "b57313f7",
+      "ts": 1794687366021
     }
   ]
 }
