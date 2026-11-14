@@ -199,7 +199,14 @@
       "addSetCode": "CMM",
       "boxLocation": "General Box",
       "sid": "08019d9e",
-      "ts": 1794688088063
+      "ts": 1794688088063,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "c0e0fb1a",
+      "ts": 1794688089645
     }
   ]
 }
