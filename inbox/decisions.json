@@ -283,7 +283,14 @@
       "action": "accept",
       "deckKey": "Sean__Sivitri, Dragon Master",
       "sid": "c137998c",
-      "ts": 1794688761861
+      "ts": 1794688761861,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Sivitri, Dragon Master",
+      "sid": "9a7810a2",
+      "ts": 1794688762328
     }
   ]
 }
