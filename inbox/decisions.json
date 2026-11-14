@@ -290,7 +290,14 @@
       "action": "accept",
       "deckKey": "Sean__Sivitri, Dragon Master",
       "sid": "9a7810a2",
-      "ts": 1794688762328
+      "ts": 1794688762328,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "sid": "3e4adaf7",
+      "ts": 1794688947308
     }
   ]
 }
