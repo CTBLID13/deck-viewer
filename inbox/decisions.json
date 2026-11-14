@@ -158,13 +158,21 @@
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "2c468ea5",
-      "ts": 1794687463433
+      "ts": 1794687463433,
+      "synced": true
     },
     {
       "action": "accept",
       "deckKey": "Jake__Shalai and Hallar",
       "sid": "f2693c51",
-      "ts": 1794687464066
+      "ts": 1794687464066,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__SpongeBob SquarePants",
+      "sid": "dd9d026e",
+      "ts": 1794687734126
     }
   ]
 }
