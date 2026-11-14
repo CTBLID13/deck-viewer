@@ -345,7 +345,14 @@
       "action": "accept",
       "deckKey": "Sean__Ygra, Eater of All",
       "sid": "cc5a7c56",
-      "ts": 1794689123000
+      "ts": 1794689123000,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ygra, Eater of All",
+      "sid": "f97fa5b1",
+      "ts": 1794689144497
     }
   ]
 }
