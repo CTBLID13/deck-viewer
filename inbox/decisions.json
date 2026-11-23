@@ -148,7 +148,14 @@
       "addSetCode": "OTJ",
       "boxLocation": "Outlaws of Thunder Junction",
       "sid": "f85e7127",
-      "ts": 1795401053523
+      "ts": 1795401053523,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Lorehold, the Historian",
+      "sid": "7c641142",
+      "ts": 1795401055093
     }
   ]
 }
