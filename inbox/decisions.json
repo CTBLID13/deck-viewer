@@ -42,7 +42,14 @@
       "action": "accept",
       "deckKey": "Jake__Muldrotha, the Gravetide",
       "sid": "3451635d",
-      "ts": 1795398775209
+      "ts": 1795398775209,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Neriv, Heart of the Storm",
+      "sid": "4d304024",
+      "ts": 1795398894406
     }
   ]
 }
