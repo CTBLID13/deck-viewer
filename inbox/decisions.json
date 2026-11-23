@@ -155,7 +155,14 @@
       "action": "accept",
       "deckKey": "Jake__Lorehold, the Historian",
       "sid": "7c641142",
-      "ts": 1795401055093
+      "ts": 1795401055093,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Font of Hope",
+      "sid": "e7570bf9",
+      "ts": 1795401217956
     }
   ]
 }
