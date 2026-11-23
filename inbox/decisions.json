@@ -199,7 +199,16 @@
       "action": "accept",
       "deckKey": "Jake__Gishath, Sun's Avatar",
       "sid": "b23d97b4",
-      "ts": 1795401734913
+      "ts": 1795401734913,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "removeSetCode": "J25",
+      "removeBoxLocation": "Foundations",
+      "sid": "0cf9f523",
+      "ts": 1795401749380
     }
   ]
 }
