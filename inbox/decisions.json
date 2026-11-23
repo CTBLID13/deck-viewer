@@ -164,6 +164,14 @@
       "sid": "e7570bf9",
       "ts": 1795401217956,
       "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Font of Hope",
+      "removeSetCode": "FDN",
+      "removeBoxLocation": "Foundations",
+      "sid": "61fe926d",
+      "ts": 1795401225764
     }
   ]
 }
