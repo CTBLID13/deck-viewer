@@ -116,7 +116,14 @@
       "action": "accept",
       "deckKey": "Sean__Edgar Markov",
       "sid": "6d3e9270",
-      "ts": 1795400195489
+      "ts": 1795400195489,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Sivitri, Dragon Master",
+      "sid": "d43ccbae",
+      "ts": 1795400800705
     }
   ]
 }
