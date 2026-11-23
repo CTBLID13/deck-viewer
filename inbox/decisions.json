@@ -35,7 +35,14 @@
       "action": "accept",
       "deckKey": "Jake__Kona, Rescue Beastie",
       "sid": "f4b92c13",
-      "ts": 1795398726108
+      "ts": 1795398726108,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Muldrotha, the Gravetide",
+      "sid": "3451635d",
+      "ts": 1795398775209
     }
   ]
 }
