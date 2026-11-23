@@ -192,7 +192,14 @@
       "action": "accept",
       "deckKey": "Jake__Gishath, Sun's Avatar",
       "sid": "e08ede60",
-      "ts": 1795401733788
+      "ts": 1795401733788,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "sid": "b23d97b4",
+      "ts": 1795401734913
     }
   ]
 }
