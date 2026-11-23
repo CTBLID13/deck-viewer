@@ -162,7 +162,16 @@
       "action": "accept",
       "deckKey": "Jake__Giada, Font of Hope",
       "sid": "e7570bf9",
-      "ts": 1795401217956
+      "ts": 1795401217956,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Giada, Font of Hope",
+      "removeSetCode": "KLD",
+      "removeBoxLocation": "General Box",
+      "sid": "61fe926d",
+      "ts": 1795401218816
     }
   ]
 }
