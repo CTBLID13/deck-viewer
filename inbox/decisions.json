@@ -72,6 +72,14 @@
       "sid": "3fd1d5da",
       "ts": 1795399230531,
       "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Sonic the Hedgehog",
+      "removeSetCode": "FDN",
+      "removeBoxLocation": "Foundations",
+      "sid": "7d7fb973",
+      "ts": 1795399322153
     }
   ]
 }
