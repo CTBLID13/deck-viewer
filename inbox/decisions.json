@@ -5,7 +5,8 @@
       "action": "accept",
       "deckKey": "Sean__Sivitri, Dragon Master",
       "sid": "64254681",
-      "ts": 1795400887355
+      "ts": 1795400887355,
+      "synced": true
     },
     {
       "action": "accept",
@@ -131,6 +132,14 @@
       "sid": "d43ccbae",
       "ts": 1795400800705,
       "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Sivitri, Dragon Master",
+      "removeSetCode": "M19",
+      "removeBoxLocation": "General Box",
+      "sid": "5feebd33",
+      "ts": 1795400897276
     }
   ]
 }
