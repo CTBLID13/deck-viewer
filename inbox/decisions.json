@@ -178,7 +178,14 @@
       "action": "accept",
       "deckKey": "Jake__Tam, the Possibility",
       "sid": "6f550a70",
-      "ts": 1795401475589
+      "ts": 1795401475589,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Tam, the Possibility",
+      "sid": "39364dfa",
+      "ts": 1795401476335
     }
   ]
 }
