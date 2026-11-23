@@ -12,7 +12,16 @@
       "action": "accept",
       "deckKey": "Jake__Baylen, the Haymaker",
       "sid": "de7b01e3",
-      "ts": 1795398474051
+      "ts": 1795398474051,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Baylen, the Haymaker",
+      "addSetCode": "RVR",
+      "boxLocation": "Ravnica Remastered",
+      "sid": "1da1eaab",
+      "ts": 1795398475503
     }
   ]
 }
