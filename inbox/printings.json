@@ -1,0 +1,32 @@
+{
+  "v": 1,
+  "printings": [
+    {
+      "deckKey": "Jake__Fire Lord Azula",
+      "key": "return the favor",
+      "name": "Return the Favor",
+      "keys": [
+        "SOA|47|"
+      ],
+      "ts": 1795404011554
+    },
+    {
+      "deckKey": "Jake__Storm, Force of Nature",
+      "key": "return the favor",
+      "name": "Return the Favor",
+      "keys": [
+        "SOA|47|"
+      ],
+      "ts": 1795404011556
+    },
+    {
+      "deckKey": "Sean__Krenko, Mob Boss",
+      "key": "krenko, mob boss",
+      "name": "Krenko, Mob Boss",
+      "keys": [
+        "FDN|204|f"
+      ],
+      "ts": 1795404011557
+    }
+  ]
+}
