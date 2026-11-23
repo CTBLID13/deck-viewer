@@ -3,6 +3,12 @@
   "decisions": [
     {
       "action": "accept",
+      "deckKey": "Sean__Sivitri, Dragon Master",
+      "sid": "64254681",
+      "ts": 1795400887355
+    },
+    {
+      "action": "accept",
       "deckKey": "Jake__Baylen, the Haymaker",
       "sid": "5af8c208",
       "ts": 1795398472402,
@@ -123,7 +129,8 @@
       "action": "accept",
       "deckKey": "Sean__Sivitri, Dragon Master",
       "sid": "d43ccbae",
-      "ts": 1795400800705
+      "ts": 1795400800705,
+      "synced": true
     }
   ]
 }
