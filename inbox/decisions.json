@@ -21,7 +21,14 @@
       "addSetCode": "RVR",
       "boxLocation": "Ravnica Remastered",
       "sid": "1da1eaab",
-      "ts": 1795398475503
+      "ts": 1795398475503,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Sean__Ghave, Guru of Spores",
+      "sid": "a68464a5",
+      "ts": 1795398566355
     }
   ]
 }
