@@ -28,7 +28,14 @@
       "action": "accept",
       "deckKey": "Sean__Ghave, Guru of Spores",
       "sid": "a68464a5",
-      "ts": 1795398566355
+      "ts": 1795398566355,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Kona, Rescue Beastie",
+      "sid": "f4b92c13",
+      "ts": 1795398726108
     }
   ]
 }
