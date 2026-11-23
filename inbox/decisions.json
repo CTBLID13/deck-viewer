@@ -171,7 +171,14 @@
       "removeSetCode": "FDN",
       "removeBoxLocation": "Foundations",
       "sid": "61fe926d",
-      "ts": 1795401225764
+      "ts": 1795401225764,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Tam, the Possibility",
+      "sid": "6f550a70",
+      "ts": 1795401475589
     }
   ]
 }
