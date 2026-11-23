@@ -185,7 +185,14 @@
       "action": "accept",
       "deckKey": "Jake__Tam, the Possibility",
       "sid": "39364dfa",
-      "ts": 1795401476335
+      "ts": 1795401476335,
+      "synced": true
+    },
+    {
+      "action": "accept",
+      "deckKey": "Jake__Gishath, Sun's Avatar",
+      "sid": "e08ede60",
+      "ts": 1795401733788
     }
   ]
 }
